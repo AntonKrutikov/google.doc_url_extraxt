@@ -1,6 +1,7 @@
 # Extract URLs from Google Docs json document
 
 Small express app with 2 api endpoints, which accept json as POST body and retunr array of extracted urls.
+Heroku ready.
 
 ## /urls
 ```
